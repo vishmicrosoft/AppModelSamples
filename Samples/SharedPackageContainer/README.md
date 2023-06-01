@@ -25,3 +25,5 @@ Add-AppSharedPackageContainer ".\sp-container-definition.xml"
 ##### app-with-image-setup_1.0.0.0_x64__8h66172c634n0.msix
 #### 3. Launch app-without-image-setup
 #### 4. Click on "Click" button and see the app load image successfully.
+
+hello
